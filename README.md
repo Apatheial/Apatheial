@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ## Hello, World! 👋
 - 🤠 Olá, me chamo Gabriel Gonçalves!
 - 📚 Estou cursando o 5º período de Sistemas de Informação na [UEMG](https://www.uemg.br)
@@ -18,7 +20,6 @@
 </p>
 
 ### ✍ Tecnologias que estou aprendendo
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <p align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="70px"/>
