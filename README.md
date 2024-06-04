@@ -23,8 +23,8 @@
 <p align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60px"/>
-    <i class="devicon-nextjs-plain" style="font-size: 60px"></i>
 </p>
+    <i class="devicon-nextjs-plain" style="font-size: 60px"></i>
 
 ------------------------------
 ![Apatheial's GitHub stats](https://github-readme-stats.vercel.app/api?username=apatheial&show_icons=true&theme=tokyonight)
