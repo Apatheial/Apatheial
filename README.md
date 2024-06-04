@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ## Hello, World! 👋
 - 🤠 Olá, me chamo Gabriel Gonçalves!
 - 📚 Estou cursando o 5º período de Sistemas de Informação na [UEMG](https://www.uemg.br)
@@ -24,8 +22,9 @@
 <p align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60px"/>
+    <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="60px" />
+    
 </p>
-    <i class="devicon-nextjs-plain" style="font-size: 60px"></i>
 
 ------------------------------
 ![Apatheial's GitHub stats](https://github-readme-stats.vercel.app/api?username=apatheial&show_icons=true&theme=tokyonight)
