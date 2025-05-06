@@ -22,7 +22,6 @@
 <p align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60px"/>
-    <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="60px" />
     
 </p>
 
