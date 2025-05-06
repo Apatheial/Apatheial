@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 - 🤠 Olá, me chamo Gabriel Gonçalves!
-- 📚 Estou cursando o 5º período de Sistemas de Informação na [UEMG](https://www.uemg.br)
+- 📚 Estou cursando o 7º período de Sistemas de Informação na [UEMG](https://www.uemg.br)
 
 ### 💻 Tecnologias e Ferramentas
 ------------------------------------------------
